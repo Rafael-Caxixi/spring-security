@@ -1,4 +1,4 @@
 package com.example.spring_security.dto;
 
-public record UsuarioResponseDto(String token) {
+public record UsuarioResponseDto(String nome) {
 }
